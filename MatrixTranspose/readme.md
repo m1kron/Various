@@ -3,7 +3,7 @@ Implemented two algorithms:
 - blocking
 - cache oblivious
 
-Output of the program on intel i5:
+Output of the program on Intel i5:
 
 ```bash
 Transpose with 'alg::Transpose_CacheOblivious' was done in avg 89.005 ms!
